@@ -1,4 +1,4 @@
-# Air_Canvas_ml_model
+# Air_Canvas_ML_model
 
 Ever wished to capture your imagination by just waving your finger in the air? In this post, we have an Air Canvas that can draw anything on it by simply moving our hands and observing the landmark on the hand knuckles. A virtual drawing tool (Computer vision project) that allows you to draw in the air using hand gestures, thanks to the powerful combination of OpenCV and MediaPipe.
 
